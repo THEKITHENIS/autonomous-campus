@@ -1,8 +1,8 @@
-# Gemelo digital · Chasis autónomo Phebus
+# AUTONOMOUS CAMPUS · Gemelo digital
 
-Gemelo digital interactivo del chasis autónomo **Phebus** (PIX Moving), dentro del proyecto **AUTONOMOUS CAMPUS** del CIFP Mendizabala LHII (Vitoria-Gasteiz), financiado por **Tknika** en la convocatoria VCFP 2026-2027.
+Aplicación de **AUTONOMOUS CAMPUS**: gemelo digital interactivo del chasis autónomo **Phebus** (PIX Moving), dentro del proyecto **AUTONOMOUS CAMPUS** del CIFP Mendizabala LHII (Vitoria-Gasteiz), financiado por **Tknika** en la convocatoria VCFP 2026-2027.
 
-**Abrir el gemelo:** https://thekithenis.github.io/gemelo-phebus/
+**Abrir el gemelo:** https://thekithenis.github.io/autonomous-campus/
 
 ## Qué incluye
 
